@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.freecodecamp.com) - This helped me to understand flexbox. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.w3schools.com) - This is an amazing article which helped me finally understand box model and a deeper understanding of flexbox. I'd recommend it to anyone still learning this concept.
+- [FreeCodeCamp.com](https://www.freecodecamp.com) - This helped me to understand flexbox. I really liked this pattern and will use it going forward.
+- [W3schools.com](https://www.w3schools.com) - This is an amazing article which helped me finally understand box model and a deeper understanding of flexbox. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
