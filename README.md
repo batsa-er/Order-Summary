@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://batsa-er.github.io/Order-Summary/](https://your-live-site-url.com)
+- Live Site URL: [https://batsa-er.github.io/Order-Summary/](https://batsa-er.github.io/Order-Summary/)
 
 ## My process
 
